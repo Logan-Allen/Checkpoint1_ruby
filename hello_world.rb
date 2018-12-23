@@ -1,6 +1,6 @@
 def hello_world
   ARGV.each do |arg|
-    puts "Hello, #{arg}"
+    puts "Hello, #{arg}!"
   end
 end
   
